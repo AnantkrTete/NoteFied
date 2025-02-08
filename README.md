@@ -1,4 +1,4 @@
-# Note-fied
+# Note-field
 This is my WEB DEVELOPMENT project . 
 I have created a notes app which will have following features:-
 1. Login page.
